@@ -1,0 +1,6 @@
+// ==UserScript==
+// @name          mt highlight words
+// @namespace     http://www.dserg.com
+// @description	  website moderator tool: highlight abusive words on page (russian, utf8)
+// @include       *
+// ==/UserScript==
